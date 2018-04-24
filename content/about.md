@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2018-04-22T15:41:17-07:00
-draft: true
+draft: false
 ---
 
 <div class="row">

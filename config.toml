@@ -1,7 +1,14 @@
-baseURL = "http://example.org/"
+baseURL = "http://www.griffincleverly.com/"
 languageCode = "en-us"
 title = "Griffin Cleverly"
 theme = "coder"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
 
 [params] # theme parameters
     author = "Griffin Cleverly" # author's name
