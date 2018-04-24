@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>My First Post</title>
+      <title>New Site</title>
       <link>http://www.griffincleverly.com/posts/my-first-post/</link>
       <pubDate>Sun, 22 Apr 2018 15:15:33 -0700</pubDate>
       
       <guid>http://www.griffincleverly.com/posts/my-first-post/</guid>
-      <description>Starting the new site!</description>
+      <description>Getting started on this new site. I built this site with Hugo, a static site generator, which I have found very user friendly. My previous site was built with Django, which was very capable but perhaps a little much for my needs. Anyways, I&amp;rsquo;m excited to use this site to show what I&amp;rsquo;m working on. My goal is to showcase projects I&amp;rsquo;m doing across the spectrum, whether they be Software, Electrical, Mechanical, or somewhere in between.</description>
     </item>
     
   </channel>
