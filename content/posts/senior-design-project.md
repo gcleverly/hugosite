@@ -1,7 +1,7 @@
 ---
 title: "Senior Design Project"
 date: 2018-04-24T06:57:37-07:00
-draft: true
+draft: false
 ---
 
 Here's a little video that shows my senior design project for my B.S. It's a load carrying robot that had to navigate up an inclined slope, deposit weights in a preconfigured area, and navigate back down the ramp to the starting area.
