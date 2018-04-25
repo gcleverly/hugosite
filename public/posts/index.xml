@@ -6,10 +6,21 @@
     <description>Recent content in Posts on Griffin Cleverly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Apr 2018 15:15:33 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 24 Apr 2018 06:57:37 -0700</lastBuildDate>
     
 	<atom:link href="http://www.griffincleverly.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Senior Design Project</title>
+      <link>http://www.griffincleverly.com/posts/senior-design-project/</link>
+      <pubDate>Tue, 24 Apr 2018 06:57:37 -0700</pubDate>
+      
+      <guid>http://www.griffincleverly.com/posts/senior-design-project/</guid>
+      <description>Here&amp;rsquo;s a little video that shows my senior design project for my B.S. It&amp;rsquo;s a load carrying robot that had to navigate up an inclined slope, deposit weights in a preconfigured area, and navigate back down the ramp to the starting area.
+   
+More info to add..</description>
+    </item>
     
     <item>
       <title>New Site</title>
